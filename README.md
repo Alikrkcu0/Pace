@@ -47,12 +47,13 @@ Günlük hareketliliği ölçen ve analiz eden veri merkezi.
 
 ## 📸 Ekran Görüntüleri
 
-<img src="docs/1.png" width="220"/>
-<img src="docs/2.jpg" width="220"/>
-<img src="docs/3.png" width="220"/>
-<img src="docs/4.jpg" width="220"/>
-<img src="docs/5.jpg" width="220"/>
-<img src="docs/6.jpg" width="220"/>
+|               Ekran 1               |               Ekran 2               |               Ekran 3               |
+| :---------------------------------: | :---------------------------------: | :---------------------------------: |
+| <img src="docs/1.png" width="220"/> | <img src="docs/2.jpg" width="220"/> | <img src="docs/3.png" width="220"/> |
+
+|               Ekran 4               |               Ekran 5               |               Ekran 6               |
+| :---------------------------------: | :---------------------------------: | :---------------------------------: |
+| <img src="docs/4.jpg" width="220"/> | <img src="docs/5.jpg" width="220"/> | <img src="docs/6.jpg" width="220"/> |
 
 ## 🛠️ Teknik Altyapı ve Teknolojiler
 
@@ -65,20 +66,3 @@ Proje, modern mobil uygulama geliştirme standartlarına uygun olarak tasarlanm�
 - **Kimlik Doğrulama:** Supabase Auth (E-posta, şifre ve potansiyel OAuth entegrasyonları için hazır altyapı)
 
 ---
-
-## ⚙️ Kurulum ve Geliştirme Ortamı
-
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
-
-### Ön Koşullar
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install)'nın bilgisayarınızda kurulu olması.
-- Bir [Supabase](https://supabase.com/) hesabı ve projesi.
-
-### Adımlar
-
-1. **Projeyi Klonlayın:**
-   ```bash
-   git clone [https://github.com/Alikrkcu0/Pace.git](https://github.com/Alikrkcu0/Pace.git)
-   cd Pace
-   ```
