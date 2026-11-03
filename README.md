@@ -48,13 +48,11 @@ Günlük hareketliliği ölçen ve analiz eden veri merkezi.
 ## 📸 Ekran Görüntüleri
 
 <img src="docs/1.png" width="220"/>
-<img src="docs/Screenshot_1793733370.jpg" width="220"/>
-<img src="docs/Screenshot_1793733381.png" width="220"/>
-<img src="docs/Screenshot_1793733389.jpg" width="220"/>
-<img src="docs/Screenshot_1793733478.jpg" width="220"/>
-<img src="docs/Screenshot_1793734289.jpg" width="220"/> |
-
----
+<img src="docs/2.jpg" width="220"/>
+<img src="docs/3.png" width="220"/>
+<img src="docs/4.jpg" width="220"/>
+<img src="docs/5.jpg" width="220"/>
+<img src="docs/6.jpg" width="220"/>
 
 ## 🛠️ Teknik Altyapı ve Teknolojiler
 
