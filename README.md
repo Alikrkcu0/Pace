@@ -1,16 +1,22 @@
-# pace
+# Pace - Kişisel Performans ve Yaşam Takip Uygulaması
 
-A new Flutter project.
+Pace, kullanıcıların günlük yaşam alışkanlıklarını, fitness hedeflerini ve kişisel gelişimlerini tek bir çatı altında takip etmelerini sağlayan modern bir mobil uygulamadır.
 
-## Getting Started
+## 🚀 Öne Çıkan Özellikler
 
-This project is a starting point for a Flutter application.
+- **Günlük Odak Panosu (Dashboard):** Kullanıcıların o günkü genel ilerlemelerini, adım hedeflerini, antrenman durumlarını ve aktif meydan okumalarını tek bir ekrandan görmelerini sağlar.
+- **Kapsamlı Antrenman Yönetimi:** Göğüs, Sırt, Omuz, Bacak, Kol ve Bilek gibi spesifik kas gruplarına ayrılmış antrenman programları oluşturma ve yönetme imkanı sunar.
+- **Dinamik Meydan Okumalar (Challenges):** Fiziksel, Zihinsel, Sağlık ve Beslenme gibi farklı kategorilerde günlük yenilenen görevlerle motivasyonu artırır.
+- **Detaylı Performans Takibi:** Günlük adım sayısını, katedilen mesafeyi ve süreyi görsel grafiklerle analiz eder.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend:** Flutter
+- **Backend & Veritabanı:** Supabase
+  - **Supabase Database (PostgreSQL):** Günlük görevlerin ve antrenman verilerinin güvenli bir şekilde saklanması.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Ekran Görüntüleri
+
+|                     Ana Ekran                      |                     Antrenman                     |                   Meydan Okumalar                   |                   Performans                   |
+| :------------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------: |
+| <img src="docs/images/dashboard.png" width="200"/> | <img src="docs/images/training.png" width="200"/> | <img src="docs/images/challenges.png" width="200"/> | <img src="docs/images/steps.png" width="200"/> |
