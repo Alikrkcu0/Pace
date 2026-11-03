@@ -49,11 +49,11 @@ Günlük hareketliliği ölçen ve analiz eden veri merkezi.
 
 |               Ekran 1               |               Ekran 2               |               Ekran 3               |
 | :---------------------------------: | :---------------------------------: | :---------------------------------: |
-| <img src="docs/1.png" width="220"/> | <img src="docs/2.jpg" width="220"/> | <img src="docs/3.png" width="220"/> |
+| <img src="docs/1.png" width="220"/> | <img src="docs/2.png" width="220"/> | <img src="docs/3.png" width="220"/> |
 
 |               Ekran 4               |               Ekran 5               |               Ekran 6               |
 | :---------------------------------: | :---------------------------------: | :---------------------------------: |
-| <img src="docs/4.jpg" width="220"/> | <img src="docs/5.jpg" width="220"/> | <img src="docs/6.jpg" width="220"/> |
+| <img src="docs/4.png" width="220"/> | <img src="docs/5.png" width="220"/> | <img src="docs/6.png" width="220"/> |
 
 ## 🛠️ Teknik Altyapı ve Teknolojiler
 
