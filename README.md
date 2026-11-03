@@ -47,9 +47,12 @@ Günlük hareketliliği ölçen ve analiz eden veri merkezi.
 
 ## 📸 Ekran Görüntüleri
 
-|        Ana Ekran (Dashboard)        |                   Antrenman Yönetimi                    |                     Meydan Okumalar                     |                    Performans Takibi                    |
-| :---------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="docs/1.png" width="220"/> | <img src="docs/Screenshot_1793733370.jpg" width="220"/> | <img src="docs/Screenshot_1793733381.png" width="220"/> | <img src="docs/Screenshot_1793733389.jpg" width="220"/> | <img src="docs/Screenshot_1793733478.jpg" width="220"/> | <img src="docs/Screenshot_1793734289.jpg" width="220"/> |
+<img src="docs/1.png" width="220"/>
+<img src="docs/Screenshot_1793733370.jpg" width="220"/>
+<img src="docs/Screenshot_1793733381.png" width="220"/>
+<img src="docs/Screenshot_1793733389.jpg" width="220"/>
+<img src="docs/Screenshot_1793733478.jpg" width="220"/>
+<img src="docs/Screenshot_1793734289.jpg" width="220"/> |
 
 ---
 
